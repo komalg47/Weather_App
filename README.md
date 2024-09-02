@@ -75,6 +75,6 @@ If you want to contribute to this project, please follow these guidelines:
 
 For any questions or inquiries, please contact:
 
-- **Email**: your-komalghorband49@gmail.com
-- **GitHub**: [[your-github-profile](https://github.com/your-profile)](https://github.com/komalg47)
+- **Email**: komalghorband49@gmail.com
+- **GitHub**: https://github.com/komalg47
 
